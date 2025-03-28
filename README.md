@@ -1,4 +1,6 @@
 AuthX - Django Authentication & Authorization System
+
+
 📌 Overview
 AuthX is a Django-based authentication system providing secure user registration, email validation, login, logout, and password reset functionalities. It is structured into one main root project with three apps:
 
